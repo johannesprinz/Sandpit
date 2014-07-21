@@ -19,4 +19,4 @@ namespace JohannesPrinz.Sandpit.Tests.Unit
             Constants.Assembly.AssemblyFileVersion.Should().Be("1.0.0.0");
         }
     }
-}
+} 
