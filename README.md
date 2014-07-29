@@ -1,3 +1,4 @@
 Sandpit
 =======
-[ ![Codeship Status for johannesprinz/Sandpit](https://www.codeship.io/projects/3981d290-f2bd-0131-b8b8-428432402276/status)](https://www.codeship.io/projects/27730)
+[![Build status](https://ci.appveyor.com/api/projects/status/2qn90nj39b04jjf5)](https://ci.appveyor.com/project/johannesprinz/sandpit)
+
